@@ -1,4 +1,4 @@
-PyTorch Computer Vision Tutorial
+PyTorch Computer Vision Tutorial.
 This repository contains a comprehensive, step-by-step tutorial for implementing computer vision models using PyTorch, with a particular focus on Fashion MNIST dataset. The tutorial aims to provide hands-on experience with key concepts in PyTorch’s computer vision ecosystem, including data loading, model building, and evaluation.
 
 Repository Contents:
